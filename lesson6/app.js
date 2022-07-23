@@ -66,7 +66,7 @@ console.log(obj2)
 
 
 const props2 = {
-    onSubmit: () => {
+    onSubmit: () => {les
         console.log("submit")
     },
     data: [
